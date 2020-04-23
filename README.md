@@ -1,5 +1,5 @@
 # geeksgod
-Youtube Radio app made using youtube search api. Makes use of python request module, django and bootstrap. 
+Youtube app made using youtube search api. It is made as a part of Geekgod internship assignment. Makes use of python request module, django and bootstrap. 
 
 #Link of project video
 
